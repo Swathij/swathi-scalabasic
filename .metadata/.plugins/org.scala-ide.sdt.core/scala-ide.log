@@ -1,0 +1,130 @@
+2015-02-11 16:34:20,584  WARN [ModalContext] - ScalaProject - Project example has platform default sourceLevel.
+2015-02-11 16:34:20,585  WARN [ModalContext] - ScalaProject - Project example runs on platform default installation.
+2015-02-11 16:53:30,485  WARN [Worker-11] - ScalaProject - Project Main has platform default sourceLevel.
+2015-02-11 16:53:30,486  WARN [Worker-11] - ScalaProject - Project Main runs on platform default installation.
+2015-02-11 16:55:33,091 ERROR [Worker-13] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-02-11 16:55:33,091 ERROR [Worker-13] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-02-11 16:55:33,091 ERROR [Worker-13] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-02-12 19:32:33,012  WARN [Worker-83] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:32:33,013  WARN [Worker-83] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:33:07,705  WARN [Worker-81] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:33:07,705  WARN [Worker-81] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:33:19,820  WARN [Worker-82] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:33:19,820  WARN [Worker-82] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:33:21,986  WARN [Worker-79] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:33:21,986  WARN [Worker-79] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:36:35,482  WARN [Worker-85] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:36:35,482  WARN [Worker-85] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:37:18,638  WARN [Worker-84] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:37:18,638  WARN [Worker-84] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:37:24,735  WARN [Worker-81] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:37:24,735  WARN [Worker-81] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:39:06,631  WARN [Worker-81] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:39:06,631  WARN [Worker-81] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:39:21,241  WARN [Worker-81] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:39:21,242  WARN [Worker-81] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:39:49,679  WARN [Worker-84] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:39:49,679  WARN [Worker-84] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:40:00,736  WARN [Worker-84] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:40:00,736  WARN [Worker-84] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:40:30,451  WARN [Worker-87] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:40:30,451  WARN [Worker-87] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:41:25,567  WARN [Worker-85] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:41:25,567  WARN [Worker-85] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:42:16,676  WARN [Worker-87] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:42:16,676  WARN [Worker-87] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:43:58,561  WARN [Worker-89] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:43:58,561  WARN [Worker-89] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:44:59,488  WARN [Worker-90] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:44:59,488  WARN [Worker-90] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:45:16,698  WARN [Worker-88] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:45:16,699  WARN [Worker-88] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:45:49,280  WARN [Worker-88] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:45:49,280  WARN [Worker-88] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:45:50,347  WARN [Worker-90] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:45:50,347  WARN [Worker-90] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:45:58,054  WARN [Worker-90] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:45:58,054  WARN [Worker-90] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:45:59,118  WARN [Worker-88] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:45:59,118  WARN [Worker-88] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:46:17,126  WARN [Worker-88] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:46:17,126  WARN [Worker-88] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:46:18,191  WARN [Worker-91] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:46:18,191  WARN [Worker-91] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:46:27,047  WARN [Worker-88] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:46:27,047  WARN [Worker-88] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:46:28,077  WARN [Worker-91] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:46:28,078  WARN [Worker-91] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:46:32,047  WARN [Worker-90] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:46:32,047  WARN [Worker-90] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:46:33,063  WARN [Worker-91] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:46:33,064  WARN [Worker-91] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:46:55,296  WARN [Worker-90] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:46:55,296  WARN [Worker-90] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:46:56,312  WARN [Worker-88] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:46:56,313  WARN [Worker-88] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:51:31,320  WARN [Worker-81] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:51:31,320  WARN [Worker-81] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:51:32,334  WARN [Worker-95] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:51:32,335  WARN [Worker-95] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:51:50,522  WARN [Worker-95] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:51:50,522  WARN [Worker-95] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:52:08,450 ERROR [Worker-95] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 143
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  78 Welcome to the Scala worksheet
+123 abs: (x: Double)Double
+255 sqrtIter: (guess: Double, x: Double)Double
+334 isGoodEnough: (guess: Double, x: Double)Boolean
+409 improve: (guess: Double, x: Double)Double
+451 sqrt: (x: Double)Double
+462 res0: Double = 1.4142135623746899
+473 res1: Double = 2.000000000000002
+
+Standard error:
+  
+
+2015-02-12 19:52:08,600  WARN [Worker-95] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:52:08,600  WARN [Worker-95] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:52:18,794  WARN [Worker-93] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:52:18,794  WARN [Worker-93] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:52:19,862  WARN [Worker-93] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:52:19,862  WARN [Worker-93] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:52:47,494  WARN [Worker-95] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:52:47,495  WARN [Worker-95] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:52:48,563  WARN [Worker-81] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:52:48,563  WARN [Worker-81] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:53:17,339  WARN [Worker-93] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:53:17,339  WARN [Worker-93] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:53:18,401  WARN [Worker-81] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:53:18,402  WARN [Worker-81] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:53:42,246  WARN [Worker-94] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:53:42,246  WARN [Worker-94] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:53:43,259  WARN [Worker-96] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:53:43,260  WARN [Worker-96] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:56:07,654  WARN [Worker-94] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:56:07,654  WARN [Worker-94] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:56:08,724  WARN [Worker-94] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:56:08,724  WARN [Worker-94] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:56:19,633  WARN [Worker-94] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:56:19,633  WARN [Worker-94] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:56:20,696  WARN [Worker-98] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:56:20,696  WARN [Worker-98] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:56:37,969  WARN [Worker-93] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:56:37,969  WARN [Worker-93] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:56:38,983  WARN [Worker-94] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:56:38,984  WARN [Worker-94] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:57:01,687  WARN [Worker-97] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:57:01,687  WARN [Worker-97] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:57:02,751  WARN [Worker-97] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:57:02,751  WARN [Worker-97] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:57:19,308  WARN [Worker-94] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:57:19,308  WARN [Worker-94] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-12 19:57:20,372  WARN [Worker-94] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-12 19:57:20,372  WARN [Worker-94] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-13 14:42:17,544  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-13 14:42:17,546  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-13 14:42:18,034  WARN [Worker-0] - ScalaProject - Project procfun has platform default sourceLevel.
+2015-02-13 14:42:18,034  WARN [Worker-0] - ScalaProject - Project procfun runs on platform default installation.
+2015-02-13 14:42:18,163  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for example, setting default to 2.11.
+2015-02-13 14:42:18,163  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for example, setting default to 2.11.

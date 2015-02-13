@@ -1,0 +1,12 @@
+package project1
+
+object Session {
+  println("Welcome to the Scala worksheet")
+  
+  def sqrtIter(guess: Double , x: Double) : Double =
+      if ((isGoodEnough(guess,x)) guess
+      else sqrtIter(improve(guess, x) , x)
+      
+  def isGoodEnough(guess: Double, x: Double) = abs(guess*guess - x) < 0.001
+  
+}

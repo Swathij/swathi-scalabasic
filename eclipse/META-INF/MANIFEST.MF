@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_32 (Sun Microsystems Inc.)
+
+Name: icon.xpm
+SHA1-Digest: FLU0bldhifXqd9Olq9UYpffuPU8=
+
+Name: eclipse
+SHA1-Digest: hNnAU1/nySiXQK+Isz9EWCi5GFE=
+
